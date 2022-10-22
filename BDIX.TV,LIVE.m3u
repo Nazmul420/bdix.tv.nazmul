@@ -4,11 +4,11 @@ http://103.143.235.50:8080/ch4/ch4.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://tinyurl.com/2py487hx",Live Sports 1  (GC - HPLink)
 http://103.143.235.50:8080/ch2/ch2.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://tinyurl.com/2py487hx",Live Sports 9
-https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
-#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 3 (BDIX11)
-http://10.252.253.254/hls/bein1.m3u8
-#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 6
-http://50.7.237.4:8080/BEIN2/index.m3u8
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
+#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live ICC Men's T20 World Cup 2022 (BDIX11)
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",ICC Men's T20 World Cup 2022 6
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
 #EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 7 (HPLink)
 http://iptv.hplink.com.bd:8080/hls/sports.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png",BTV World
