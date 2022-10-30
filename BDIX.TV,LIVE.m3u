@@ -1052,6 +1052,6 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://tinyurl.com/4y2t8v7k",Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+https://b7i4j3n3.stackpathcdn.com/dlive/transcode-81-37/funnyhoodvidz/1667160470/src/live.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://dugdugilive.com/img/channels/stargold.png",Star Gold HD (BDIX8)
 http://172.16.50.2:8082/StarGold/tracks-v1a1/mono.m3u8
